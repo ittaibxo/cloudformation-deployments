@@ -1,4 +1,4 @@
-# WebServer CloudFormaion Template
+# WebServer CloudFormaion Stack
 
-- VPC TEMPLATE
-- EC2 TEMPLATE
+- VPC Template
+- EC2 Template
