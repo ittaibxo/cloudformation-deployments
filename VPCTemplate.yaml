@@ -1,6 +1,8 @@
 AWSTemplateFormatVersion: 2010-09-09
 Description: >-
-  This is the vpc template for cloudformation, I highly recommend using the free tier when cresting a stack from this template.
+  AWS CloudFormation Sample Template VPC_with_PublicIPs_And_DNS: Sample template
+  that creates a VPC with DNS and public IPs enabled. Note that you are billed
+  for the AWS resources that you use when you create a stack from this template.
 Resources:
   VPC:
     Type: 'AWS::EC2::VPC'
